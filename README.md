@@ -32,4 +32,4 @@ This project is an interactive web application built with HTML, CSS, and JavaScr
 
 *   HTML5
 *   CSS3 (including Flexbox, CSS Variables, Transitions)
-*   JavaScript (ES6+ including async/await)# Sorting-Algorithm-visualizer
+*   JavaScript (ES6+ including async/await)
